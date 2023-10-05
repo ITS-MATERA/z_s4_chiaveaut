@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<library xmlns="http://www.sap.com/sap.ui.library.xsd">
+	<name>custZchiaveaut.zchiaveautlibrary</name>
+	<vendor>Innovates</vendor>
+	<version>${version}</version>
+	<copyright>${copyright}</copyright>
+	<title>zchiaveautlibrary</title>
+	<documentation>Some description about zchiaveautlibrary</documentation>
+	<dependencies>
+		<dependency>
+			<libraryName>sap.ui.core</libraryName>
+		</dependency>
+	</dependencies>
+</library>
